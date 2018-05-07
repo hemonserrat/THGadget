@@ -21,7 +21,7 @@ This is the standard DS1302 module, but I replaced it with the HT1380 <br/>
 ![THGadget HT1380](./img/HT1380-Detailed-view.jpg)
 
 ## Required libraries
-* [TFTv2 by Seeed Technology Inc](http://www.seeedstudio.com/depot/images/product/2.8touch%20shieldv2.jpg)](http://www.seeedstudio.com/depot/28-tft-touch-shield-v20-p-1286.html?cPath=34_36)
+* [TFTv2 by Seeed Technology Inc](http://www.seeedstudio.com/depot/28-tft-touch-shield-v20-p-1286.html?cPath=34_36)
 * [SD Library by SparkFun v1.2.1](https://www.arduino.cc/en/Reference/SD)
 * [Adafruit Unified Sensor V1.0.2](https://github.com/adafruit/Adafruit_Sensor)
 * [Adafruit DHT Library](https://github.com/adafruit/DHT-sensor-library)
@@ -29,7 +29,7 @@ This is the standard DS1302 module, but I replaced it with the HT1380 <br/>
 * [Time Library by Michael Margolis v 1.5.0](http://playground.arduino.cc/code/time)
 
 ## References:
-* [HT1380 Datasheet]:(./datasheets/HoltekHT1380.pdf)
+* [HT1380 Datasheet](./datasheets/HoltekHT1380.pdf)
 
 (C) 2018,  Hernan Monserrat, License GNU GPL 3
 
